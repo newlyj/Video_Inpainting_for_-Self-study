@@ -1,4 +1,4 @@
-# Video_Inpainting_for_-Self-study
+# Video_Inpainting_for_Self-study
 A reading memo of the Learning Based video inpainting papers in https://github.com/1900zyh/Awesome-Image-Inpainting
 1. Wang C, Huang H, Han X, et al. __Video inpainting by jointly learning temporal structure and spatial details__[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2019, 33: 5232-5239.
 
