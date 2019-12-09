@@ -1,2 +1,2 @@
 # Video_Inpainting_for_-Self-study
-Just a memo for learning the deep-learning-based video inpainting.
+A reading memo of the Learning Based video inpainting papers in https://github.com/1900zyh/Awesome-Image-Inpainting
